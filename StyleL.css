@@ -1,0 +1,68 @@
+    /* Khai báo html hoặc root sẽ áp dụng cho toàn trang */
+html{
+    --box-height: 150px;
+    --box-color:red;
+}
+.Box_1{
+    height: var(--box-height);
+    background-color: var(--box-color);
+    margin:10px ;
+
+}
+.Box_2{
+    height: var(--box-height);
+    background-color: var(--box-color);
+    margin:10px ;
+    
+}
+.Box_3{
+    height: var(--box-height);
+    background-color: var(--box-color);
+    margin:10px ;
+    
+}
+.Box_3{
+    height: 200px;  
+}
+
+.box4
+.detail{
+    --p_font-size: 30px;
+    /* font-size:30px; */
+/* font-size: var(--p_font-size); */
+
+}
+/* Khai báo cho phần tử nào thì liên quan tới đó và các cấp thấp hơn của nó */
+.detail span{
+    font-size: var(--p_font-size);
+
+}
+    /* 4.giá trị backup của biến */
+.content{
+    --background-box:red;
+}
+.Box_4{
+    height: 100px;
+    background-color: var(--background-box,purple); /* back up or failback */
+
+}
+
+
+/* .Box_1{
+    height: 110px;
+    background-color: #0f0;
+    margin:10px ;
+
+}
+.Box_2{
+    height: 110px;
+    background-color: #0f0;
+    margin:10px ;
+    
+}
+.Box_3{
+    height: 110px;
+    background-color: #0f0;
+    margin:10px ;
+    
+} */

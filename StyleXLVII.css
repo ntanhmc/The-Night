@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+}
+p::first-line{
+    color:red;
+}
+span{
+    display:inline-block;
+}
+span::first-line{
+    color:blue;
+    background-color: yellow;
+}
+p::first-letter {
+    font-size: 40px;
+    color: blue;
+}
+p::selection{
+    background-color: aqua;
+    /* -->quan trọng nè */
+}
+
+li::marker{
+    font-size: 40px;
+    color: red;
+}
+.box::before{
+    content: "em ở đằng trước nè";
+   
+
+}
+.box::after{
+    display: inline-block;
+    content:"";
+    width: 100px;
+    height: 5px ;
+    background-color: blue;
+    border-radius: 999px;
+    color:red;
+}

@@ -1,0 +1,30 @@
+div{
+    width: 100px;
+    height: 100px;
+    color:yellow;
+    background-color: red;
+    padding: 20px;
+/* Padding-Trên-phải-dưới-trái(Clockwise) */
+
+
+
+
+
+
+border: 10px solid black;
+/* border-top: 10px solid palevioletred;
+border-left:10px dashed black;
+border-right:10px dotted black;
+border-bottom:10px double black; */
+
+
+/* border-style: solid dotted dashed double;
+border-width: 10px 20px 30px 40px; 
+border-color: pink; */
+/* trên-dưới-trái-phải */
+
+
+border-top-left-radius: 30px ;
+border-bottom-right-radius: 30px;
+
+}

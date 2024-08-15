@@ -1,0 +1,35 @@
+*{
+    font-size: 30px;
+    background-color: aliceblue;
+    
+}
+
+
+h1 {
+    Color: pink;
+    /* Không động vào được */
+    /* Prefix */
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    }
+    p{
+        color:blue;
+        font-size: 20px;
+    
+    }
+    #Cucumber{
+        Color:black;
+    }
+.Cereal{
+    Color :rgb(255, 192, 192)
+}
+.Cereal2{
+    font-size: 40px;
+    
+}
+.Tomatos{
+    List-style:none;
+    user-select: none;
+}

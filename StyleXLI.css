@@ -1,0 +1,24 @@
+body{
+    background-image: url(/Img/luke-miller-iLGdHvAQHUc-unsplash.jpg);
+background-size: cover;
+
+
+}
+.box{
+    margin-top: 50px;
+    height: 100px;
+    background-color: ;
+    backdrop-filter: blur(5px) contrast(40px);
+    -webkit-backdrop-filter: blur(5px) contrast(40%);
+}
+
+
+
+@supports(    backdrop-filter: blur(5px) contrast(40%))
+or ( -webkit-backdrop-filter: blur(5px) contrast(40%))
+{
+    .box{
+        backdrop-filter: blur(5px) contrast(40%);
+        -webkit-backdrop-filter: blur(5px) contrast(40%);   
+}
+}

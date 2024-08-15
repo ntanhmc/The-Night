@@ -1,0 +1,41 @@
+.Concaccon{
+    height: 150px;
+    background-color: #00ffff;
+display: flex;
+flex-direction: column;
+
+
+}
+.Memay1{
+    background-color: red;
+}
+.Memay2{
+    background-color: yellow;
+    margin-top: auto;
+}
+.Memay3{
+    background-color: orange;
+    /* margin-left: auto; */
+}
+.Memay4{
+    background-color: blueviolet;
+}
+.Memay5{
+    background-color: bisque;
+}
+
+
+
+.Conga{
+    background-color: #00ffff;
+    height: 100px;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    
+}
+.Dm{
+color: black;
+font-size: 3rem;
+margin: auto;
+}

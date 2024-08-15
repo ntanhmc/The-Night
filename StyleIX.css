@@ -1,0 +1,29 @@
+p:first-child{
+    Color:red;
+    font-size:30px;
+    
+}
+
+p:last-child{
+ Color: blue;
+ Font-size: 30px;
+}
+p:nth-child(3n+1){
+    color:blueviolet;
+}
+
+
+p:nth-last-child(2){
+    Color:pink;
+
+}
+p:only-child{
+    Color:red;
+    font-size: small;
+}
+
+
+p:nth-of-type(2){
+    Color:Orange;
+font-size: 40px;
+}

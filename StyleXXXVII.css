@@ -1,0 +1,26 @@
+/* background-position */
+body{
+    background-color: gray;
+}
+.box{
+    width: 400px;
+    height: 300px;
+    background-image: url(https://newsmd2fr.keeng.vn/tiin/archive/images/268/202012/20201227/tinngan_103925_510177437_8.jpg);
+    border: 5px solid black;
+    background-position: top right;
+    background-position: top left;
+    background-position: bottom left;
+    background-position: bottom right;
+    background-position: bottom;
+    background-position: top;
+    background-position: center;
+    background-position: 0% 0%;
+    background-position: 1890% 1%;
+    /* Mình điều trỉnh bằng nút ↑ or ↓ trong Ispect website */
+
+}
+
+img{
+    width: 60%;
+    margin-top: 50px;
+}

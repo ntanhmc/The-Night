@@ -1,0 +1,21 @@
+html{
+    background-color: grey;
+}
+.notiz{
+    margin: 5rem;
+    font-size: 10rem;
+    color: violet;
+    background-color:#000;
+    position: relative;
+}
+.Nghi_pham{
+    font-size: 4rem;
+    background-color: red;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 0.5rem;
+
+position: absolute  ;
+left: 100px;
+top: 0;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+}
+.box{
+width: 150px;
+height: 150px;
+margin: 200px;
+background-color: pink;
+/* box-shadow: 60px -16px orange;
+box-shadow: 60px -16px 5px orange;
+box-shadow: 60px -16px 5px 10px orange; */
+box-shadow: 160px 0 black, 0 160px, 160px 160px pink;
+border-radius: 1rem;
+
+
+
+
+} 

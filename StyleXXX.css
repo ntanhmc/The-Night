@@ -1,0 +1,26 @@
+/* text-align:justify */
+/* text-tranform: captialize; */
+/* Text-decoration: overline line-through underline; */
+body{
+    background-color: gray;
+}
+strong{
+    /* text-decoration: none;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through; */
+
+    text-decoration: overline line-through underline;
+    /* text-decoration: underline dotted 10px gray; */
+}
+.Nightfall{
+    /* Thụt lề 40px nè */
+    text-indent: 40px;
+    /* Căn đều nè */
+    text-align:justify;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    /* Chữ cái đầu viết hoa */
+    text-transform: capitalize;
+}

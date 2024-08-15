@@ -1,0 +1,14 @@
+/* list-style-type:none; */
+/* website:fontawesome.com */
+li{
+    /* Bỏ chấm <UI> */
+    list-style-type:none ; 
+    background-color: black;
+    width: 80px;
+    color: white;
+}
+
+.fa-solid{
+    color: violet;
+    margin-right: 4px;
+}

@@ -1,0 +1,31 @@
+.Cpontainer{
+    height: 150px;
+    display: flex;
+    background-color: aquamarine;
+    overflow: scroll;
+
+}
+.Box{
+    background-color: gray;
+    border: 1px solid black;
+    width: 30%;
+    flex-shrink: 0;
+}
+
+
+
+
+.Motherfucker{
+    height: 150px;
+    display: flex;
+    background-color: gray;
+    flex-direction: column;
+    
+}
+.DD{
+    width: 30%;
+    background-color:white;
+border: 1px solid darkgrey;
+flex-basis: 30%;
+/* height: 30%; */
+}

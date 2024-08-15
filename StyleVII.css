@@ -1,0 +1,13 @@
+[href]{
+    color:black;
+
+}
+[target="_blank"]{
+    color:pink;
+}
+/* [title|="pic"]{
+    color:red;
+} */
+[title^="pic"]{
+    color:yellow;
+}

@@ -1,0 +1,26 @@
+*{background-color: bisque;
+    font-size: 1.5rem;
+}
+.Nghi_pham{
+    display: flex;
+    background-color: cyan;
+gap: 40px;
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    justify-content: space-between;
+justify-content: space-evenly;
+align-items: flex-start;
+align-items: flex-end;
+/* align-items: center; */
+/* align-items: baseline; */
+/* align-items: stretch; */
+}
+.Box{ 
+    background-color:gray ;
+}
+.box1{
+    height: 200px;
+    font-size: 3rem;
+}

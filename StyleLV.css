@@ -1,0 +1,32 @@
+.The_night a{
+    font-size: 2rem;
+    color: #008bfe;
+    position:fixed;
+    right: 0;
+    bottom: 20px;
+
+}
+.JTR{
+    background-color: gray;
+position: fixed;
+left: 0;
+right: 0;
+top: 0;
+/* bottom: 0; */
+/* inset: 50px 100px 150px 50px; */
+}
+
+.JTR li{
+    display: inline-block;
+}
+
+.JTR a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px;
+
+}
+h1 {
+    margin-top:50px;
+
+}

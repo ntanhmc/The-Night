@@ -1,0 +1,42 @@
+.Container{
+    height: 150px;
+    display: flex;
+    background-color: greenyellow;
+    display: flex;
+align-items: flex-start;
+}
+.Box{
+    background-color: gray;
+    border: 1px solid black;
+
+}
+.box3,.box6{
+    align-self:stretch;
+}
+
+
+
+
+
+
+
+
+
+
+.Container1{
+    height: 140px;
+    display: flex;
+    background-color: cyan;
+}
+.DD{
+    background-color: brown;
+    border: 1px solid black;
+}
+.DD1{
+    flex-grow: 1;
+}
+.DD2{
+    flex-grow: 2;
+}
+.DD3{
+    flex-grow: 1;}

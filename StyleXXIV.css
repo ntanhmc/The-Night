@@ -1,0 +1,18 @@
+html{
+background-color: gray;
+font-size: 62.5%;
+/* Phép tính: 10*100/16 */
+}
+h1{
+    font-size: 4.555rem;
+    /* 44.55px = ... */
+}
+p{
+    font-size: 2.144rem;
+    /* 21.44px = ... */
+}
+.Concac1{
+    width: 220px;
+    height: 160px;
+    background-color: rgb(192, 89, 89);
+}

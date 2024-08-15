@@ -1,0 +1,23 @@
+/* background-size:cover
+backgroun-size:contain */
+body{
+    background-color: gray;
+    
+}
+.box{
+    width: 500px;
+    height: 200px;
+    background-image: url(./Img/meo-anh-long-ngan.jpg);
+   
+    border:  4px solid;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+  
+    background-size: 100% 100%;
+    background-size:  cover;
+    background-size: contain;
+
+  
+}

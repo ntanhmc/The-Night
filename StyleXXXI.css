@@ -1,0 +1,13 @@
+/* white-space:nowwrap
+white-space:pre-line */
+body{
+    background-color: gray;
+}
+p{
+    /* Cho chữ vào box */
+    background-color: yellow;
+    /* white-space:pre;  */
+/* white-space: pre-line; */
+/* white-space: nowrap; */
+white-space: pre-wrap;
+}

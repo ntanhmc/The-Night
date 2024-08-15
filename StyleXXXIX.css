@@ -1,0 +1,25 @@
+/* background-repeat:no-repeat */
+/* background-attachment:fixed */
+/* Overflow:auto */
+body{
+    background-color: gray;
+}
+.box{
+    height: 400px;
+    background-image: url(./Img/nellie-adamyan-K2Z2Y3hZgc0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+}
+.The_Night{
+    height: 200px;
+    width: 70%;
+    /* Thanh cuốn */
+    overflow: auto;
+    background-image: url(./Img/nuki-chikhladze-CYR9oprzeU0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    color: white;
+}

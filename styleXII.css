@@ -1,0 +1,23 @@
+.Nghipham{
+    width: 200px;
+    height: 200px;
+    background-color: palevioletred;
+    padding: 20px;
+
+}
+body{
+    background-color: gray;
+}
+ 
+.Nghipham1{
+    border: 10px solid black;
+
+}
+.Nghipham2{
+    border: 10px solid rgb(41, 142, 158);
+    margin-left: 259.2px;
+}
+.Nghipham3{
+    border: 10px solid black;
+    margin-left: 518.4px;
+}

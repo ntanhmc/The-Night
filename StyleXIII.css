@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.container{
+    /* Chỉ cần sài width_hight sẽ auto chỉnh */
+    width: 700px;
+margin:0 auto;
+text-align: center;
+background-color: yellow;
+}
+.container h1{
+    font-size: 40px;
+}
+.container p{
+font-size: 20px;
+line-height: 2;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.container img{
+max-width: 600px;
+}

@@ -1,0 +1,28 @@
+.DDmmm{
+    display: flex;
+}
+.Adu{
+    /* width: 100px; */
+    flex-basis: 100px;
+    /* max-width: 100px; */
+    min-width: 200px;
+
+
+}
+/* 1. nếu max-width < flex-basis -> max-width
+2. nếu max-width > flex-basis -> flex-basis */
+.Adu1{
+    background-color: red;
+    order: 2;
+}
+.Adu2{
+    background-color: green;
+    order: 1;
+}
+.Adu3{
+    background-color: blue;
+    order: 3;
+}
+.Adu4{
+    background-color: gray;
+}

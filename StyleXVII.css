@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+.Hotpot{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 10px solid black;
+    border-radius: 10px;
+    box-sizing: content-box;
+}
+/* Thường sử dụng trong thiết kế */
+
+.Hotpot2{
+    box-sizing: border-box;
+    width: 159.2px;
+    height: 159.2px;
+    padding: 5px;
+}

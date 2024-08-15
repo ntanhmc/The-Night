@@ -1,0 +1,15 @@
+body{
+background-color: gray;
+}
+/* TUyệt đối */
+h2{
+    font-size:30px;
+    width: 120px;
+    height: 80px;
+    background-color: yellow;
+}
+/* Tương đối */
+p{
+    width: 50%;
+    background-color: blue;
+}

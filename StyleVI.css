@@ -1,0 +1,12 @@
+div p{
+    Color: Orange;
+}
+h1~h3{
+    color:blue;
+}
+H1+h2{
+    font-size: 30px;
+}
+ .Okokla.Okokla2+h3{
+ font-size: 30px;
+}

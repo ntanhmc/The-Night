@@ -1,0 +1,29 @@
+/* Code Suprise */
+/* p:hover{
+    Color: red;
+    font-size: 40px;
+} */
+p:active{
+    Color:red;
+    font-size: 40px;
+}
+/* Chưa truy cập */
+.clickme:link{
+    Color:yellow;
+}
+/* Đã truy cập */
+.clickme:visited{
+    color:aqua;
+}
+
+.div_elm:empty{
+width: 200px;
+height: 200px;
+background-color: blue;
+}
+
+.div_elm{
+width: 200px;
+height: 200px;
+background-color: black;
+}

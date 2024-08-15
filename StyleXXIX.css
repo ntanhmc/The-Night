@@ -1,0 +1,18 @@
+body{
+    background-color: gray;
+    font-weight: bold;
+}
+p{
+    /* letter-spacing: -3px;
+    word-spacing: 20px; */
+
+    /* text-align: left; */
+    /* text-align: justify; */
+    /* text-align: right; */
+    text-align: center;
+}
+a {
+    text-align: center;
+    /* Sài méo được */
+    display:block;
+}

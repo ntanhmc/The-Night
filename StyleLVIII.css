@@ -1,0 +1,14 @@
+
+.pic_1{
+    width: 300px;
+    float: right;
+}
+
+.pic_2{
+    width: 300px;
+    float: left;
+}
+ 
+p:last-child{
+clear: both;
+}

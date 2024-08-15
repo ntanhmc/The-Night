@@ -1,0 +1,26 @@
+h1{
+    color:red 
+}
+
+/* !important>Inline style>ID
+>Class(.)>Element Select(h,p,li,div,...)>* 
+So sánh độ quan trọng, ưu tiên*/
+.top{
+color:blue;
+}
+
+#Theh1{
+    color:aqua;
+}
+
+
+
+
+
+.top:last-of-type
+{
+    Color:Orange
+}
+p:nth-of-type(2){
+    Color:red;  
+}

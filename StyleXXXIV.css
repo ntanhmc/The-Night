@@ -1,0 +1,22 @@
+/* Overflow:hidden */
+/* -Webkit-line-clamp: 2;
+-Webkit-box-orient: Vertical;
+display: -webkit-box; */
+
+h1{
+width: 200px;
+background-color: pink;
+white-space: nowrap;
+overflow: hidden; 
+/* ẩn nội dung thừa */
+text-overflow: ellipsis; 
+/* tạo dấu ... */
+}
+h2{
+    /* Làm dấu ... ở dòng thứ 2, 3, */
+    background-color: aqua;
+    overflow: hidden;
+    -Webkit-line-clamp: 2;
+    -Webkit-box-orient: Vertical;
+    display: -webkit-box;
+}

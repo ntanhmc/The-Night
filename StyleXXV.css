@@ -1,0 +1,29 @@
+h1{
+    /* color: rgb(40, 42, 102); */
+/* 0 -->255  */
+
+/* Kênh rgba */
+/* color: rgb(255,0,0,0.5);
+background-color: rgb(144 5 432 / 0.5); */
+
+/* Khó vãi loz */
+color: #f0f;
+color: #c2d;
+ background-color: #cccccc;
+}
+
+.Concacbig{
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    color: pink;
+    background-color: currentColor;
+    outline: 10px solid currentColor ;
+    outline-offset: 5px;
+}
+
+.Concacsmall{
+    width: 50px;
+    height: 50px;
+    background-color: currentColor;
+}
